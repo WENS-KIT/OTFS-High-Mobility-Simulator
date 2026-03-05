@@ -16,7 +16,7 @@
 ### <!-- Note here the introduce of the repo or docker image. -->
 
 # OTFS-High-Mobility-Simulator
-High-Mobility OTFS Link-Level Simulator for delay-Doppler channels, including OTFS-IM, MIMO-OTFS, and NOMA-OTFS, with BER/BPCU/throughput benchmarking and baseline comparisons.
+OTFS High-Mobility Link-Level Simulator for delay-Doppler channels, including OTFS-IM, MIMO-OTFS, and NOMA-OTFS, with BER/BPCU/throughput benchmarking and baseline comparisons.
 
 We are happy to announce the release of the High Mobility OTFS Link Level Simulator 
 
