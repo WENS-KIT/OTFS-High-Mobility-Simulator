@@ -216,5 +216,19 @@ Please download the related Runtime installer if you encounter .dll error.
 
 # Reference Papers
 
+[1]  A. Tariq, M. Sajid Sarwar and S. Y. Shin, "Orthogonal Time-Frequency–Space Multiple Access Using Index Modulation and NOMA," in IEEE Wireless Communications Letters, vol. 14, no. 5, pp. 1456-1460, May 2025, doi: 10.1109/LWC.2025.3544234.	
 
+[2]  A. Tariq, M. S. Sarwar and S. Young Shin, "Orthogonal Time Frequency Space Index Modulation based on Non-Orthogonal Multiple Access," 2023 14th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2023, pp. 838-841, doi: 10.1109/ICTC58733.2023.10392492.
+
+[3] A. Tariq, M.S. Sarwar and S. Y. Shin, "Orthogonal Time Frequency Space (OTFS) with Tri-Mode Index Modulation," 2024 15th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2024, pp. 1183-1186, doi: 10.1109/ICTC62082.2024.
+
+[4]  3GPP, "Study on channel model for NR," 3GPP TR 38.901, Version 19.0.0, [12 2025].
+
+[5] Hong, Yi, Tharaj Thaj, and Emanuele Viterbo. Delay-Doppler Communications: Principles and Applications. Academic Press, 2022.
+
+[6] Raviteja, Patchava, Khoa T. Phan, and Yi Hong. "Embedded pilot-aided channel estimation for OTFS in delay–Doppler channels." IEEE transactions on vehicular technology 68, no. 5 (2019): 4906-4917.
+
+[7] Mohammed, Saif Khan, Ronny Hadani, and Ananthanarayanan Chockalingam. OTFS Modulation: Theory and Applications. John Wiley & Sons, 2024.
+
+[8] Hadani, Ronny, Shlomo Rakib, Michail Tsatsanis, Anton Monk, Andrea J. Goldsmith, Andreas F. Molisch, and R. Calderbank. "Orthogonal time frequency space modulation." In 2017 IEEE wireless communications and networking conference (WCNC), pp. 1-6. IEEE, 2017.
 
