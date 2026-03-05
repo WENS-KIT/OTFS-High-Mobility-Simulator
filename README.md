@@ -15,40 +15,74 @@
 
 ### <!-- Note here the introduce of the repo or docker image. -->
 
-# NOMA Simulator
+# OTFS-High-Mobility-Simulator
+High-Mobility OTFS Link-Level Simulator for delay-Doppler channels, including OTFS-IM, MIMO-OTFS, and NOMA-OTFS, with BER/BPCU/throughput benchmarking and baseline comparisons.
 
-We are happy to announce the release of the NOMA Downlink System Level Simulator source Code.
-You can download the matlab file given above.
+We are happy to announce the release of the High Mobility OTFS Link Level Simulator 
 
-To get access to the download link simulator, please send an e-mail to WENS Laboratory (labwens@gmail.com) including:
+To get access to the download link, please send an e-mail to WENS Lab (labwens@gmail.com) that contains:
 
-1) Identity (name, date of birth, e-mail, phone number, address, and institution)
+1- Identity (name, date of birth, e-mail, phone number, address, and institution)
 
-2) The reason/purpose for using the NOMA Simulator.
+2- The reason/purpose for using the OTFS Simulator.
 
-The features of thie simulator are listed below. You can also check the list of features and the documentation of the new version on the webpage of the corresponding simulator. You can download our paper regarding NOMA simulator from the link given below.
+The features are listed below. You can also check the list of features and the documentation of the new version on the webpage of the corresponding simulator.
 
-You are welcome to post your questions/comments/feedback to the WENS Laboratory (labwens@gmail.com). Our team will try to support you as soon as possible. Please also read the license agreement carefully to check whether you would need our permission to use the simulator.
+You are welcome to post your questions/comments/feedback to the WENS Lab (labwens@gmail.com). Our team will try to support you as soon as possible. Please also read the licence agreement carefully to check whether you would need our permission to use the simulator.
 
 Best regards,
-The NOMA Simulator Team.
+
+The OTFS High Mobility Simulator Team.
 
 
-# Published article 
+# Published articles 
 
-Khan, A.; Usman, M.A.; Usman, M.R.; Ahmad, M.; Shin, S.-Y. Link and System-Level NOMA Simulator: The Reproducibility of Research. Electronics 2021, 10, 2388. 
-https://doi.org/10.3390/electronics10192388
+[1] A. Tariq, M. Sajid Sarwar and S. Y. Shin, "Orthogonal Time-Frequency–Space Multiple Access Using Index Modulation and NOMA," in IEEE Wireless Communications Letters, vol. 14, no. 5, pp. 1456-1460, May 2025, doi: 10.1109/LWC.2025.3544234.	
 
-# Cite this article as:
+[2]  A. Tariq, M. S. Sarwar and S. Young Shin, "Orthogonal Time Frequency Space Index Modulation based on Non-Orthogonal Multiple Access," 2023 14th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2023, pp. 838-841, doi: 10.1109/ICTC58733.2023.10392492.
 
-@article{2021, title={Link and System-Level NOMA Simulator: The Reproducibility of Research}, 
-volume={10}, ISSN={2079-9292}, DOI={10.3390/electronics10192388}, number={19}, journal={Electronics}, publisher={MDPI AG}, 
-author={Khan, Arsla and Usman, Muhammad Arslan and Usman, Muhammad Rehan and Ahmad, Muneeb and Shin, Soo-Young}, 
-year={2021}, month={Sep}, pages={2388}, url={http://dx.doi.org/10.3390/electronics10192388}}
+[3] A. Tariq, M.S. Sarwar and S. Y. Shin, "Orthogonal Time Frequency Space (OTFS) with Tri-Mode Index Modulation," 2024 15th International Conference on Information and Communication Technology Convergence (ICTC), Jeju Island, Korea, Republic of, 2024, pp. 1183-1186, doi: 10.1109/ICTC62082.2024.
+
+# Cite the article as:
+
+@ARTICLE{10897822,
+  author={Tariq, Adnan and Sajid Sarwar, Muhammad and Shin, Soo Young},
+  journal={IEEE Wireless Communications Letters}, 
+  title={Orthogonal Time-Frequency–Space Multiple Access Using Index Modulation and NOMA}, 
+  year={2025},
+  volume={14},
+  number={5},
+  pages={1456-1460},
+  keywords={Indexes;Modulation;Delays;Doppler effect;Uplink;Symbols;Time-frequency analysis;NOMA;Signal to noise ratio;Bit error rate;Index modulation;NOTFS-IMMA;OTFS-MA;OTFS-NOMA;OTFS-IM},
+  doi={10.1109/LWC.2025.3544234}}
+
+@INPROCEEDINGS{10392492,
+  author={Tariq, Adnan and Sarwar, Muhammad Sajid and Young Shin, Soo},
+  booktitle={2023 14th International Conference on Information and Communication Technology Convergence (ICTC)}, 
+  title={Orthogonal Time Frequency Space Index Modulation based on Non-Orthogonal Multiple Access}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={838-841},
+  keywords={Wireless communication;Time-frequency analysis;NOMA;Spectral efficiency;Simulation;Bit error rate;Modulation;Orthogonal Time Frequency Space Index Modulation (OTFS-IM);Non-Orthogonal Multiple Access (NOMA);OTFS-IM-NOMA},
+  doi={10.1109/ICTC58733.2023.10392492}}
+
+  @INPROCEEDINGS{10827438,
+  author={Tariq, Adnan and Sarwar, Muhammad Sajid and Shin, Soo Young},
+  booktitle={2024 15th International Conference on Information and Communication Technology Convergence (ICTC)}, 
+  title={Orthogonal Time Frequency Space (OTFS) with Tri-Mode Index Modulation}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1183-1186},
+  keywords={Time-frequency analysis;Spectral efficiency;Simulation;Bit error rate;Modulation;Energy efficiency;Robustness;Information and communication technology;Indexes;Signal to noise ratio;Index modulation (IM);OTFS-IM;Tri-Mode OTFC},
+  doi={10.1109/ICTC62082.2024.10827438}}
 
 # Abstarct
 
-This study focuses on the design of a MATLAB platform for non-orthogonal multiple access (NOMA) based systems with link-level and system-level analyses. Among the different potential candidates for 5G, NOMA is gaining considerable attention owing to the many-fold increase in spectral efficiency as compared to orthogonal multiple access (OMA). In this study, a NOMA simulator is presented for two and more than two users in a single cell for link-level analysis; whereas, for system-level analysis, seven cells and 19 cells scenarios were considered. Long-term evolution (LTE) was used as the baseline for the NOMA simulator, while bit error rate (BER), throughput and spectral efficiency are used as performance metrics to analyze the simulator performance. Moreover, we demonstrated the application of the NOMA simulator for different simulation scenarios through examples. In addition, the performance of multi-carrier NOMA (MC-NOMA) was evaluated in the presence of AWGN, impulse noise, and intercell interference. To circumvent channel impairments, channel coding with linear precoding is suggested to improve the BER performance of the system.
+This repository provides a high-mobility OTFS link-level simulation framework designed to study performance in delay-Doppler selective channels under realistic mobility effects. 
+It includes dedicated packages for OTFS with Index Modulation (OTFS-IM), MIMO-OTFS, and NOMA-OTFS, and supports configurable delay/doppler resource grids, PSK/QAM constellations, Jakes-spectrum Doppler, 
+and 3GPP TDL channel models. The simulator reports standard metrics such as BER, BPCU, and throughput, and enables direct performance comparisons against relevant baselines.
 
 # About this code
 
@@ -178,28 +212,12 @@ The parameters in the code file are given below:
 </table>
 <!-- ============================================================================ -->
 
-|# Parameters          |           # OMA                               |            # NOMA                  |
-|----------------------|-----------------------------------------------|------------------------------------|
-|System Level	         |           Downlink	                           |            Downlink                |
-|Random User	         |           2 users	                           |              2 users               |
-|Multi-cell	           |        3;7;19 cells	                         |            3;7;19 cells            |
-|Frequency	           |       900;1800;2100;2600 MHz	                 |       900;1800;2100;2600 MHz       |
-|Propagation Model	   |       Okumura-Hata;Cost-231	                 |         Okumura-Hata;Cost-231      |
-|Imperfect SIC	       |               N/A	                           |                  ✔                 |
-|Interference	         | Intercell interference;SINR	                 |   Intercell Interference;SINR      |
-|Cell Capacity       	 |User capacity;Ergodic sum capacity	           |User capacity;Ergodic sum capacity  |
-
 # Software 
-Matlab R20b or above
+Matlab R2024a or above
 
 Please download the related Runtime installer if you encounter .dll error.
 
 # Reference Papers
 
 
-# OTFS-High-Mobility-Simulator
-High-Mobility OTFS Link-Level Simulator for delay-Doppler channels, including OTFS-IM, MIMO-OTFS, and NOMA-OTFS, with BER/BPCU/throughput benchmarking and baseline comparisons.
 
-This repository provides a high-mobility OTFS link-level simulation framework designed to study performance in delay-Doppler selective channels under realistic mobility effects. 
-It includes dedicated packages for OTFS with Index Modulation (OTFS-IM), MIMO-OTFS, and NOMA-OTFS, and supports configurable delay/doppler resource grids, PSK/QAM constellations, Jakes-spectrum Doppler, 
-and 3GPP TDL channel models. The simulator reports standard metrics such as BER, BPCU, and throughput, and enables direct performance comparisons against relevant baselines.
