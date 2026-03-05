@@ -53,7 +53,6 @@ The OTFS High Mobility Simulator Team.
   volume={14},
   number={5},
   pages={1456-1460},
-  keywords={Indexes;Modulation;Delays;Doppler effect;Uplink;Symbols;Time-frequency analysis;NOMA;Signal to noise ratio;Bit error rate;Index modulation;NOTFS-IMMA;OTFS-MA;OTFS-NOMA;OTFS-IM},
   doi={10.1109/LWC.2025.3544234}}
 
 @INPROCEEDINGS{10392492,
@@ -64,7 +63,6 @@ The OTFS High Mobility Simulator Team.
   volume={},
   number={},
   pages={838-841},
-  keywords={Wireless communication;Time-frequency analysis;NOMA;Spectral efficiency;Simulation;Bit error rate;Modulation;Orthogonal Time Frequency Space Index Modulation (OTFS-IM);Non-Orthogonal Multiple Access (NOMA);OTFS-IM-NOMA},
   doi={10.1109/ICTC58733.2023.10392492}}
 
   @INPROCEEDINGS{10827438,
@@ -75,7 +73,6 @@ The OTFS High Mobility Simulator Team.
   volume={},
   number={},
   pages={1183-1186},
-  keywords={Time-frequency analysis;Spectral efficiency;Simulation;Bit error rate;Modulation;Energy efficiency;Robustness;Information and communication technology;Indexes;Signal to noise ratio;Index modulation (IM);OTFS-IM;Tri-Mode OTFC},
   doi={10.1109/ICTC62082.2024.10827438}}
 
 # Abstarct
